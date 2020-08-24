@@ -14,3 +14,6 @@ I added a space
 This is not going to be commited, be in staging area
 
 This does not even go to staging area
+
+### copyright
+adding copyright section
