@@ -17,3 +17,6 @@ This does not even go to staging area
 
 ### copyright
 adding copyright section
+
+##Instruction
+how to use section 
