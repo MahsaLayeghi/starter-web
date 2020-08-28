@@ -18,6 +18,7 @@ This does not even go to staging area
 
 ### copyright
 adding copyright section
+change copyright for stash example
 
 ##Instruction
 how to use section 
