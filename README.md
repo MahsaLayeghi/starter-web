@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 # some changes
 
 I added a space
+adding this line for tagging example
 
 # some more changes
 This is not going to be commited, be in staging area
